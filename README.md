@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **radhikaagarwal963@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nJyDhi-bYG8HH_vN5G7CC7eBL0gshkHR/view?usp=share_link](https://drive.google.com/file/d/1nJyDhi-bYG8HH_vN5G7CC7eBL0gshkHR/view?usp=share_link)
+- 📄 Know about my experiences[](https://drive.google.com/file/d/1mxfqHNK2JiPi16lBd04XA5drjlxHxnRp/view?usp=sharing)
 
 - ⚡ Fun fact **I am curious and willing to learn, and have great sense of humor**
 
