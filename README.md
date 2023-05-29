@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgit&psig=AOvVaw3daHBPlJCO2Sbefugdh03O&ust=1685443468115000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLip9Kysmv8CFQAAAAAdAAAAABAE)
+![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
 <h3 align="center">Data Analyst and Artist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
