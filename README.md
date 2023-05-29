@@ -1,4 +1,4 @@
-![MasterHead](https://www.behance.net/gallery/9870189/GIF-header/modules/72651857)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F9870189%2FGIF-header&psig=AOvVaw2YJ2xCd7QB9Q6rvUmx6jvF&ust=1685442937412000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjN8a-qmv8CFQAAAAAdAAAAABBZ)
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
 <h3 align="center">Data Analyst and Artist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
